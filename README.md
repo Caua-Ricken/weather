@@ -32,4 +32,4 @@ Aplicação web simples para exibir a **previsão do tempo** de qualquer cidade,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/weather.git
+   git clone https://github.com/Caua-Ricken/weather.git
